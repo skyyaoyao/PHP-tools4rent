@@ -10,9 +10,9 @@ o	Not work Air-Compressor, Pliers, Gun
 ## CS 6400 Database Systems Phase 3 Demo
 Tools-4-Rent! Script
 <b> 1	Team Introduction
-We have together in this demo: list names of everybody in attendance. We all worked on pieces of this demo using both writing, updating, and inserting MySqli statements via PHP. We used elements of HTML5, javascript, and PHP to get this to work. We’re pleased to show you our working database web application
+  We have together in this demo: list names of everybody in attendance. We all worked on pieces of this demo using both writing, updating, and inserting MySqli statements via PHP. We used elements of HTML5, javascript, and PHP to get this to work. We’re pleased to show you our working database web application
 <b> 2	MyPHP
-Let’s first take a look at what kind of Tools, Customers, and Reservations are in the database. We have 64 tools from different categories and subtypes. We have 10 Customers and 25 Reservations. [Optional] Now let’s take a quick look and see for all Reservations, what Customers go with them and what Tools (put in query).
+  Let’s first take a look at what kind of Tools, Customers, and Reservations are in the database. We have 64 tools from different categories and subtypes. We have 10 Customers and 25 Reservations. [Optional] Now let’s take a quick look and see for all Reservations, what Customers go with them and what Tools (put in query).
 Now let’s take a look how we interact with the web application to manipulate the information in the database.
 <b> 3	Login
 Requirements
